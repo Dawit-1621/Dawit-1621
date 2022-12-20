@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Dawit Hassen
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Natural Language Processing
+I’m interested in Machine Learning, Deep Learning, Computer Vision and Natural Language Processing
 
 
 <!---
