@@ -3,7 +3,6 @@ Experienced Machine Learning Engineer and Data Scientist with 8+ years of experi
 Proficient in developing and deploying Machine Learning models, building scalable data pipelines, and performing in-depth statistical analysis using Python, SQL, scikit-learn, and TensorFlow. Experienced with cloud platforms such as AWS and GCP, with a strong background in NLP, time series analysis, and model evaluation. Proven ability to lead cross-functional teams, communicate actionable insights, and drive measurable business impact through data. Passionate about leveraging machine learning to solve real-world problems and deliver innovative, data-driven solutions.
 
 
-
 <!---
 Dawit-1621/Dawit-1621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
